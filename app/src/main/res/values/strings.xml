@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Activity 1</string>
+
+    <string name="welcome">Welcome to Unit Conversion</string>
+
+    <string name="inch_to_meter">Inch To Meter</string>
+    <string name="inch_to_centimeter">Inch To Centimeter</string>
+    <string name="inch_to_foot">Inch To Foot</string>
+
+    <string name="inches">Inches</string>
+    <string name="centi">Centimeter</string>
+    <string name="foot">Foot</string>
+    <string name="meter">Meter</string>
+
+    <string name="convert"> Convert </string>
+
+
+</resources>
